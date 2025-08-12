@@ -20,6 +20,8 @@ An application that fetches and displays real-time weather data for any city ent
 A simple to-do list that demonstrates DOM manipulation and event handling to manage tasks.
 - **Repository:** https://github.com/Saakshi1504/ToDoApp.git
 
+---
+
 ### Expense Tracker
 A simple, interactive web-based Expense Tracker. Built with HTML, CSS, and JavaScript, it helps users record and manage daily expenditures with data persistence via Local Storage.
 - **Repository:** https://github.com/Saakshi1504/Expense-Tracker.git
